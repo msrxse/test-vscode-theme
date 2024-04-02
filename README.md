@@ -35,3 +35,7 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+# Keybindings.json
+Open the keybindings.json file from the Command Palette (⇧⌘P) with the Preferences: Open Keyboard Shortcuts (JSON) command.
+- Added CMD + SHIFT 1-9 as used to GOTO tabs in firefox
