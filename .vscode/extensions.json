@@ -16,7 +16,6 @@
     "streetsidesoftware.code-spell-checker",
     "yoavbls.pretty-ts-errors",
     "rangav.vscode-thunder-client",
-    "dsznajder.es7-react-js-snippets",
-    "otovo-oss.htmx-tags"
+    "dsznajder.es7-react-js-snippets"
   ]
 }
